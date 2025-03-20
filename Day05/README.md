@@ -6,7 +6,6 @@
 - range() function
 
 ## Project of the Day - Password Generator
-- [Python Password Generator](/password_generator.py)
 
 ### How It Works
 

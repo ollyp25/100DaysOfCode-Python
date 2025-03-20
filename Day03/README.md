@@ -3,13 +3,6 @@
 
 - **Concepts Learned**: Conditional Statements, Logical Operators, Code Blocks and Scope.
 
-## Project of the Day 
-
-In this folder you'll find two mini-projects that I've completed on Day 3 of 100 Days of Code Python Bootcamp.
-
-- [Pizza Delivery Program](/pizza_deliveries.py)
-- [Treasure Hunt Game](/treasure_island_game.py)
-
 ## Project 1: Pizza Deliveries
 
 ### How It Works

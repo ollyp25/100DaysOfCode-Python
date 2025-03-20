@@ -5,28 +5,17 @@ Welcome to my repository for the **100 Days of Code - Python Bootcamp** challeng
 ## About the 100 Days of Code challenge
    This coding challenge is about committing myself to code for at least an hour each day to increase my knowledge of Python gradually. Each day I focus on learning new syntax and concepts of Pythion (plus its various libraries) and applying them through hands-on projects.
 
-## Projects Overview
-Below is an overview of the different days and projects that are part of this repository:
+## Projects log
+Below is a table containing information on what concepts were learned and what projects were completed on each day of the challenge (in _descending_ order):
 
-### Day 6 - Python Functions & Karel
-- No project for Day 6
-
-### Day 5 - For Loops
-- **Project of the Day**: [Password Generator](Day05/password_generator.py)
-
-### Day 4 - Random Module
-- **Project of the Day**: [Rock Paper Scissors](Day04/rock_paper_scissors.py)
-
-### Day 3 - Control Flow and Logical Operators
-- **Projects of the Day**:
-  - [Pizza Delivery Program](Day03/pizza_deliveries.py)
-  - [Treasure Island Game](Day03/treasure_island_game.py)
-
-### Day 2 - Understanding Data Types and How to Manipulate Strings
-- **Project of the Day**: [Tip Calculator](Day02/tip_calculator.py)
-
-### Day 1 - Working with Variables in Python
-- **Project of the Day**: [Band Name Generator](Day01/band_name_generator.py)
+| Day   | Topic                                            | Project of the Day                                                                                      |
+|-------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Day 6 | Python Functions & Karel                         | No project for Day 6                                                                                    |
+| Day 5 | For Loops                                        | [Password Generator](Day05/password_generator.py)                                                       |
+| Day 4 | Random Module                                    | [Rock Paper Scissors](Day04/rock_paper_scissors.py)                                                     |
+| Day 3 | Control Flow and Logical Operators               | [Treasure Island Game](Day03/treasure_island_game.py) |
+| Day 2 | Understanding Data Types and String Manipulation | [Tip Calculator](Day02/tip_calculator.py)                                                               |
+| Day 1 | Working with Variables in Python                 | [Band Name Generator](Day01/band_name_generator.py)                                                     
 
 
 ## Technologies Used
