@@ -8,16 +8,26 @@ Welcome to my repository for the **100 Days of Code - Python Bootcamp** challeng
 ## Projects Overview
 Below is an overview of the different days and projects that are part of this repository:
 
-### Day 1 - Working with Variables in Python
-- **Project of the Day**: [Band Name Generator](Day01/band_name_generator.py)
+### Day 6 - Python Functions & Karel
+- No project for Day 6
 
-### Day 2 - Understanding Data Types and How to Manipulate Strings
-- **Project of the Day**: [Tip Calculator](Day02/tip_calculator.py)
+### Day 5 - For Loops
+- **Project of the Day**: [Password Generator](Day05/password_generator.py)
+
+### Day 4 - Random Module
+- **Project of the Day**: [Rock Paper Scissors](Day04/rock_paper_scissors.py)
 
 ### Day 3 - Control Flow and Logical Operators
 - **Projects of the Day**:
   - [Pizza Delivery Program](Day03/pizza_deliveries.py)
   - [Treasure Island Game](Day03/treasure_island_game.py)
+
+### Day 2 - Understanding Data Types and How to Manipulate Strings
+- **Project of the Day**: [Tip Calculator](Day02/tip_calculator.py)
+
+### Day 1 - Working with Variables in Python
+- **Project of the Day**: [Band Name Generator](Day01/band_name_generator.py)
+
 
 ## Technologies Used
 - All of these projects are written in **Python 3**.

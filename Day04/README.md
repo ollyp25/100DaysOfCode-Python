@@ -6,7 +6,7 @@
 - Python Random Module
 
 ## Project of the Day - Rock Paper Scissors
-- [Rock Paper Scissors](Day04/rock_paper_scissors.py)
+- [Rock Paper Scissors](/rock_paper_scissors.py)
 
 ### How It Works
 
