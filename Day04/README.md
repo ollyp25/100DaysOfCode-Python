@@ -29,7 +29,7 @@ python rock_paper_scissors.py
 ### Example
 
 ```
-What do you choose? Type 0 for Rock, 1 for Paper, or 2 for Scissors: 0
+Make your choice: Type 0 for Rock, 1 for Paper, or 2 for Scissors 0
 
     _______
 ---'   ____)
