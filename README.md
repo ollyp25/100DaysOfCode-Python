@@ -10,6 +10,9 @@ Below is a table containing information on what concepts were learned and what p
 
 | Day   | Topic                                            | Project of the Day                                                                                      |
 |-------|--------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| Day 9 | Dictionaries, Nesting and the Secret Auction     | [Blind Auction](Day09/main.py) |
+| Day 8 | Function Parameters & Caesar Cipher              | [Caesar Cipher](Day08/main.py)   |
+| Day 7 | Recap                                            | [Hangman Game](Day07/main.py)   |
 | Day 6 | Python Functions & Karel                         | No project for Day 6                                                                                    |
 | Day 5 | For Loops                                        | [Password Generator](Day05/password_generator.py)                                                       |
 | Day 4 | Random Module                                    | [Rock Paper Scissors](Day04/rock_paper_scissors.py)                                                     |
