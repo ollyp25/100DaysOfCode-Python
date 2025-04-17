@@ -23,7 +23,7 @@ python main.py
 ### Example
 
 ```
-![Hirst Painting Demo](images/hirst-painting.gif)
+![Hirst Painting Demo](Day18/images/hirst-painting.gif)
 
 ```
 
