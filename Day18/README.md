@@ -22,10 +22,7 @@ python main.py
 
 ### Example
 
-```
-![Hirst Painting Demo](Day18/images/hirst-painting.gif)
-
-```
+![Hirst Painting Demo](https://github.com/ollyp25/100DaysOfCode-Python/blob/04d70133ceef19d5da59837bff466caf9f6a2abc/Day18/images/hirst-painting.gif)
 
 ### Technologies Used
 - Python 3.x
