@@ -10,6 +10,9 @@ Below is a table containing information on what concepts were learned and what p
 
 | Day    | Topic                                            | Project of the Day                                    |
 |--------|--------------------------------------------------|-------------------------------------------------------|
+| Day 18 | Graphical User Interface (GUI), Turtle Graphics & Module Imports         | [Hirst Painting](Day18/main.py)                       |
+| Day 17 | OOP and Custom Classes                           | [Quiz Project](Day17/main.py)                         |
+| Day 16 | Object Oriented Programming (OOP)                | [OOP Coffee Machine](Day16/main.py)                   |
 | Day 15 | The Coffee Machine                               | [Coffee Machine](Day15/main.py)                       |
 | Day 14 | Higher or Lower Game                             | [Higher or Lower Game](Day14/main.py)                 |
 | Day 13 | Debugging                                        | No project for Day 13                                 |
