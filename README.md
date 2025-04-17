@@ -10,6 +10,9 @@ Below is a table containing information on what concepts were learned and what p
 
 | Day    | Topic                                            | Project of the Day                                    |
 |--------|--------------------------------------------------|-------------------------------------------------------|
+| Day 15 | The Coffee Machine                               | [Coffee Machine](Day15/main.py)                       |
+| Day 14 | Higher or Lower Game                             | [Higher or Lower Game](Day14/main.py)                 |
+| Day 13 | Debugging                                        | No project for Day 13                                 |
 | Day 12 | Scope and Number Guessing Game                   | [Number Guessing Game](Day12/main.py)                 |
 | Day 11 | Blackjack Capstone Project                       | [Blackjack Game](Day11/main.py)                       |
 | Day 10 | Functions with Outputs                           | [Calculator](Day10/main.py)                           |
