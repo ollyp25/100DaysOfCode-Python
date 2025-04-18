@@ -10,7 +10,6 @@ Below is a table containing information on what concepts were learned and what p
 
 | Day    | Topic                                                            | Project of the Day                                    |
 |--------|------------------------------------------------------------------|-------------------------------------------------------|
-| 
 | Day 24 | Files, Folders & Automating Tasks                                | [Automated Letter Generator](Day24/main.py)           |
 | Day 23 | Turtle Crossing Game                                             | [Turtle Crossing Game](Day23/main.py)                 |
 | Day 22 | Building Pong with Turtle & OOP                                  | [Pong Game](Day22/main.py)                            |
