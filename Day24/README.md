@@ -13,17 +13,17 @@ After that, we shifted gears to a real-world automation project. Imagine needing
 It’s a small but powerful way Python can help automate repetitive tasks.
 
 ## Project of the Day
-- [Turtle Crossing Game](Day23/main.py)
+- [Automated Letter Generator](Day24/main.py)
 
 ### How It Works
 
-1. This program automates the process of creating personalized letters from a single template. Here's how it works:
-2. Read Names: It starts by opening the invited_names.txt file, which contains a list of names. Each name is read into a list.
-3. Read Template Letter: It then opens a starting letter template (starting_letter.txt) that contains a placeholder ([name]) where each name should go.
-4. Personalize & Save:
-- For each name, it removes any extra whitespace.
-- Replaces [name] in the template with the actual name.
-- Writes the personalized letter to a new .txt file in the Output/ReadyToSend folder, naming it letter_for_<name>.txt.
+This program automates the process of creating personalized letters from a single template. Here's how it works:
+1. Read Names: It starts by opening the invited_names.txt file, which contains a list of names. Each name is read into a list.
+2. Read Template Letter: It then opens a starting letter template (starting_letter.txt) that contains a placeholder ([name]) where each name should go.
+3. Personalize & Save:
+   - For each name, it removes any extra whitespace.
+   - Replaces [name] in the template with the actual name.
+   - Writes the personalized letter to a new .txt file in the Output/ReadyToSend folder, naming it letter_for_<name>.txt.
 
 ### Usage
 
