@@ -8,26 +8,30 @@ Welcome to my repository for the **100 Days of Code - Python Bootcamp** challeng
 ## Projects log
 Below is a table containing information on what concepts were learned and what projects were completed on each day of the challenge (in _descending_ order):
 
-| Day    | Topic                                            | Project of the Day                                    |
-|--------|--------------------------------------------------|-------------------------------------------------------|
-| Day 18 | Graphical User Interface (GUI), Turtle Graphics & Module Imports         | [Hirst Painting](Day18/main.py)                       |
-| Day 17 | OOP and Custom Classes                           | [Quiz Project](Day17/main.py)                         |
-| Day 16 | Object Oriented Programming (OOP)                | [OOP Coffee Machine](Day16/main.py)                   |
-| Day 15 | The Coffee Machine                               | [Coffee Machine](Day15/main.py)                       |
-| Day 14 | Higher or Lower Game                             | [Higher or Lower Game](Day14/main.py)                 |
-| Day 13 | Debugging                                        | No project for Day 13                                 |
-| Day 12 | Scope and Number Guessing Game                   | [Number Guessing Game](Day12/main.py)                 |
-| Day 11 | Blackjack Capstone Project                       | [Blackjack Game](Day11/main.py)                       |
-| Day 10 | Functions with Outputs                           | [Calculator](Day10/main.py)                           |
-| Day 9  | Dictionaries, Nesting and the Secret Auction     | [Blind Auction](Day09/main.py)                        |
-| Day 8  | Function Parameters & Caesar Cipher              | [Caesar Cipher](Day08/main.py)                        |
-| Day 7  | Recap                                            | [Hangman Game](Day07/main.py)                         |
-| Day 6  | Python Functions & Karel                         | No project for Day 6                                  |
-| Day 5  | For Loops                                        | [Password Generator](Day05/password_generator.py)     |
-| Day 4  | Random Module                                    | [Rock Paper Scissors](Day04/rock_paper_scissors.py)   |
-| Day 3  | Control Flow and Logical Operators               | [Treasure Island Game](Day03/treasure_island_game.py) |
-| Day 2  | Understanding Data Types and String Manipulation | [Tip Calculator](Day02/tip_calculator.py)             |
-| Day 1  | Working with Variables in Python                 | [Band Name Generator](Day01/band_name_generator.py)   
+| Day    | Topic                                                            | Project of the Day                                    |
+|--------|------------------------------------------------------------------|-------------------------------------------------------|
+| Day 22 |
+| Day 21 | Building the Snake Game (Part 2)                                 | [Snake Game](Day21/main.py)                           |                     
+| Day 20 | Building the Snake Game (Part 1)                                 | [Snake Game](Day21/main.py)                           |                            
+| Day 19 | Turtle Graphics, Event Listeners & Mini Games                    | [Turtle Race Game](Day19/main.py)                     |
+| Day 18 | Graphical User Interface (GUI), Turtle Graphics & Module Imports | [Hirst Painting](Day18/main.py)                       |
+| Day 17 | OOP and Custom Classes                                           | [Quiz Project](Day17/main.py)                         |
+| Day 16 | Object Oriented Programming (OOP)                                | [OOP Coffee Machine](Day16/main.py)                   |
+| Day 15 | The Coffee Machine                                               | [Coffee Machine](Day15/main.py)                       |
+| Day 14 | Higher or Lower Game                                             | [Higher or Lower Game](Day14/main.py)                 |
+| Day 13 | Debugging                                                        | No project for Day 13                                 |
+| Day 12 | Scope and Number Guessing Game                                   | [Number Guessing Game](Day12/main.py)                 |
+| Day 11 | Blackjack Capstone Project                                       | [Blackjack Game](Day11/main.py)                       |
+| Day 10 | Functions with Outputs                                           | [Calculator](Day10/main.py)                           |
+| Day 9  | Dictionaries, Nesting and the Secret Auction                     | [Blind Auction](Day09/main.py)                        |
+| Day 8  | Function Parameters & Caesar Cipher                              | [Caesar Cipher](Day08/main.py)                        |
+| Day 7  | Recap                                                            | [Hangman Game](Day07/main.py)                         |
+| Day 6  | Python Functions & Karel                                         | No project for Day 6                                  |
+| Day 5  | For Loops                                                        | [Password Generator](Day05/password_generator.py)     |
+| Day 4  | Random Module                                                    | [Rock Paper Scissors](Day04/rock_paper_scissors.py)   |
+| Day 3  | Control Flow and Logical Operators                               | [Treasure Island Game](Day03/treasure_island_game.py) |
+| Day 2  | Understanding Data Types and String Manipulation                 | [Tip Calculator](Day02/tip_calculator.py)             |
+| Day 1  | Working with Variables in Python                                 | [Band Name Generator](Day01/band_name_generator.py)   
 
 
 ## Technologies Used

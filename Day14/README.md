@@ -73,4 +73,4 @@ Sorry, that's wrong. Final score: 1
 ### Notes
 
 - This is one of the earliest projects I completed during the **100 Days of Code** Python Bootcamp on Udemy.
-- Feel free to modify the program, for example, by adding more advanced features like input validation, dynamic tip percentages, or a graphical user interface (GUI).
+- Feel free to modify the program by adding more advanced features.
